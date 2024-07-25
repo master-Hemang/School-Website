@@ -1,0 +1,47 @@
+/* src/assets/css/main.css */
+.hero-section {
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+  }
+  
+  .carousel-section img {
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  section {
+    padding: 60px 0;
+  }
+  
+  section h2 {
+    margin-bottom: 30px;
+    font-size: 2rem;
+  }
+  
+  section p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
+  .contact-us-section iframe {
+    margin-top: 30px;
+  }
+  
+  .bg-primary {
+    background-color: #007bff !important;
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa !important;
+  }
+  
+  .text-white {
+    color: #fff !important;
+  }
+  
+  .text-center {
+    text-align: center !important;
+  }
+  
